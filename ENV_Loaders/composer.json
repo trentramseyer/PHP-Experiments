@@ -1,0 +1,17 @@
+{
+  "require": {
+    "symfony/http-foundation": "^4.2",
+    "bramus/router": "~1.4",
+    "twig/twig":"^2.0",
+    "nesbot/carbon": "2.*",
+    "giggsey/libphonenumber-for-php":"^8.10",
+    "sendgrid/sendgrid": "~7",
+    "braintree/braintree_php" : "^3.40",
+    "guzzlehttp/guzzle": "~6.0",
+    "stripe/stripe-php": "^6.31",
+    "vlucas/phpdotenv": "^3.3"
+  },
+  "require-dev": {
+    "symfony/dotenv": "^4.2"
+  }
+}
