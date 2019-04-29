@@ -103,7 +103,7 @@ Total Files: 16
 
 ###Test 4 using vlucas/phpdotenv
 
-Now loading the .env file with 50 variables using Symfony
+Now loading the .env file with 50 variables using vlucas/phpdotenv
 
 ```$xslt
 HTML transferred:       33918824 bytes
